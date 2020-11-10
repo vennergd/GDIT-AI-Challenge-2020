@@ -6,7 +6,8 @@ Search for textual information that is semantically similar to other texts is a 
 - Expanded vocabulary (thesaurus, concepts) 
 - Statistical (TF-IDF) 
 - NLP (semantic, entity, and event) 
-- Deep Learning trained word embeddings (Word2Vec, Stanford GloVE, etc.) 
+- Deep Learning trained word embeddings (Word2Vec, Stanford GloVE, etc.)
+
 Recent improvements using Deep Learning trained word embeddings are demonstrating significant improvement over all previous methods.
 
 The challenge is to select a large corpus of text from collections we have stored in the "data" folder, and use Deep Learning trained word embeddings that have contextual awareness of how a word is used in a sentence. Use this to create a “More Like This” search that can take a search string and return documents that are similar to that query. Demonstrate the use of the solution and discuss it’s applicability across various use cases.
