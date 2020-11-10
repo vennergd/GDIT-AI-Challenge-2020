@@ -36,7 +36,7 @@ Consider your current project, upcoming efforts, and your interests. Explore Pub
 - Anaconda: https://www.anaconda.com/products/individual 
 - 10 Best Data Science Platforms: https://medium.com/@ODSC/10-best-data-science-platforms-f59b41fd1958 
 ## Submission Requirement
-Create a repository in GitHub  with these Contents
+Create a repository in GitHub  with these following contents:
 - Readme
 - Data (or links) 
 - Code / Notebooks
