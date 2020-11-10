@@ -35,7 +35,7 @@ Consider your current project, upcoming efforts, and your interests. Explore Pub
 - TensorFlow Datasets: https://www.tensorflow.org/datasets
 - Open Data on GitHub: https://datahub.io/core , https://github.com/datasets 
 - DataQuest: https://www.dataquest.io/blog/free-datasets-for-projects/ 
-### Data Scciene Platforms
+### Data Sciene Platforms
 - Google Colaboratory: https://colab.research.google.com/notebooks/intro.ipynb
 - Kaggle Notebooks: https://www.kaggle.com/kernels 
 - Anaconda: https://www.anaconda.com/products/individual 
