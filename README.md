@@ -28,7 +28,7 @@ The challenge is to locate at least two pre-trained image classification Deep Le
 - DO NOT TRAIN A NETWORK
 - Use at least two pre-trained networks and compare them.
 ## GDIT Challenge (Option 3): Data Scientist’s Choice
-Consider your current project, upcoming efforts, and your interests. Explore Publicly Available Data Sets. Create you own use case using one or more data sets. Use your favorite data science platform.
+Consider your current project, upcoming efforts, and your interests. Explore Publicly Available Data Sets. Create your own use case using one or more data sets. Use your favorite data science platform.
 ## Resources
 ### Data
 - Data.Gov: https://catalog.data.gov/dataset
@@ -36,7 +36,7 @@ Consider your current project, upcoming efforts, and your interests. Explore Pub
 - TensorFlow Datasets: https://www.tensorflow.org/datasets
 - Open Data on GitHub: https://datahub.io/core , https://github.com/datasets 
 - DataQuest: https://www.dataquest.io/blog/free-datasets-for-projects/ 
-### Data Sciene Platforms
+### Data Science Platforms
 - Google Colaboratory: https://colab.research.google.com/notebooks/intro.ipynb
 - Kaggle Notebooks: https://www.kaggle.com/kernels 
 - Anaconda: https://www.anaconda.com/products/individual 
